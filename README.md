@@ -36,6 +36,7 @@ Dashboard building using PowerBI
 
 The dashboard looks something like this
 
- 
+ ![image](https://github.com/user-attachments/assets/cc9fa5d9-d39f-411f-9f40-4bd97976b6af)
+
 
 Click on PowerBI to download and view the dashboard.
