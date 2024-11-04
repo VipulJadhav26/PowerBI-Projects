@@ -1,7 +1,7 @@
 # RCM Analytics (Healthcare Domain)
 
 Data Collection
-Data Was collected from Kaggle RCM data.
+Data Was collected from Kaggle [RCM data](https://www.kaggle.com/datasets/abuthahir1998/synthetic-healthcare-claims-dataset).
 
 About Dataset
 This dataset contains randomly generated healthcare claims data intended for training machine learning models that predict the outcome of medical claims. Although the data mimics the structure and variety of typical medical claims, it is entirely synthetic and contains no actual patient information.
@@ -18,7 +18,7 @@ Data Analysis using SQL
 
 5.	Tracked monthly billed vs. paid trends and developed summary statistics (e.g., average Days in AR by insurance type) to support financial planning and improve collections strategies.
 
-For detailed Analysis please check the GitHub Page. 
+For detailed Analysis please check the [GitHub](https://github.com/VipulJadhav26/PowerBI-Projects/blob/main/EDA queries.sql) Page. 
 
 Dashboard building using PowerBI
 
@@ -39,4 +39,4 @@ The dashboard looks something like this
  ![image](https://github.com/user-attachments/assets/cc9fa5d9-d39f-411f-9f40-4bd97976b6af)
 
 
-Click on PowerBI to download and view the dashboard.
+Click on [PowerBI](https://github.com/VipulJadhav26/PowerBI-Projects/blob/main/RCM Analytics.pbix) to download and view the dashboard.
